@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Code\C#\PictureViewer\bin\Release\PictureViewer.exe.config
+C:\Users\USER\Desktop\Code\C#\PictureViewer\bin\Release\PictureViewer.exe
+C:\Users\USER\Desktop\Code\C#\PictureViewer\bin\Release\PictureViewer.pdb
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.Form1.resources
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.exe
+C:\Users\USER\Desktop\Code\C#\PictureViewer\obj\Release\PictureViewer.pdb
